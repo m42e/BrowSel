@@ -1,0 +1,7 @@
+bin
+obj
+}.suo
+BrowSel.suo
+packages
+csproj.user
+*.csproj.user
